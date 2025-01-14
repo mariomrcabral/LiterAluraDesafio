@@ -102,6 +102,7 @@ O projeto tem como objetivo consolidar conceitos como:
    ```
 
 4. Acesse a aplicação em: [http://localhost:8080](http://localhost:8080)
+No caso para testar na sua propria máquina
 
 ---
 
